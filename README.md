@@ -1,6 +1,10 @@
 # Job Market Insights Dashboard
 
 A data analytics project using public datasets to analyze layoffs, job trends, and skill transitions.
+  ## 🌐 Live Demo
+
+  Access the live dashboard [here](https://your-app-url.streamlit.app).
+
 # 📊 AI Job Trends Analytics Dashboard
 
 This project explores the evolving tech job market using publicly available and simulated datasets. It analyzes trends in layoffs, job postings, and in-demand skills — and presents the findings through an interactive Streamlit dashboard.
