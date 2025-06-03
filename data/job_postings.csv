@@ -1,0 +1,151 @@
+job_title,industry,skills,salary,location,date
+Software Engineer,Software,"Node.js, JavaScript, PostgreSQL",84324,New York,2022-08-14
+Data Scientist,FinTech,"Scikit-learn, Pandas, NLP",92900,New York,2022-05-20
+Software Engineer,FinTech,"PostgreSQL, JavaScript, Node.js",136354,Remote,2023-07-29
+Business Analyst,Software,"SQL, Excel, Stakeholder Management",155738,London,2023-11-11
+DevOps Engineer,FinTech,"AWS, Docker, Kubernetes",88200,Remote,2022-11-03
+ML Engineer,E-Commerce,"AWS, PyTorch, TensorFlow",129585,Remote,2022-03-01
+Data Analyst,FinTech,"Power BI, Python, SQL",60599,Berlin,2022-04-08
+Data Analyst,HealthTech,"Python, SQL, Excel",141259,London,2023-09-16
+Data Scientist,E-Commerce,"Pandas, Scikit-learn, Python",82355,Toronto,2022-04-04
+DevOps Engineer,EdTech,"Kubernetes, CI/CD, Docker",84878,San Francisco,2023-11-13
+Data Analyst,Software,"SQL, Power BI, Python",71834,Toronto,2023-06-04
+Data Analyst,E-Commerce,"Excel, Python, Power BI",114628,Berlin,2023-04-21
+Data Scientist,AI,"Pandas, Python, Scikit-learn",61853,Toronto,2024-06-02
+Software Engineer,AI,"React, PostgreSQL, Node.js",105807,New York,2023-10-26
+Data Scientist,E-Commerce,"Python, NLP, Pandas",108328,Berlin,2022-05-22
+Business Analyst,AI,"Power BI, SQL, Stakeholder Management",110034,Toronto,2022-08-28
+Business Analyst,E-Commerce,"Power BI, Excel, SQL",109978,San Francisco,2023-04-26
+Data Scientist,Software,"Scikit-learn, Python, Pandas",81705,Toronto,2023-01-24
+ML Engineer,E-Commerce,"TensorFlow, AWS, PyTorch",118841,San Francisco,2022-10-15
+Software Engineer,FinTech,"Node.js, JavaScript, PostgreSQL",146676,Remote,2023-08-09
+ML Engineer,E-Commerce,"AWS, Python, PyTorch",86282,Toronto,2022-06-24
+Software Engineer,AI,"React, PostgreSQL, JavaScript",73965,Toronto,2023-04-16
+Data Analyst,HealthTech,"Python, Excel, Power BI",146430,Toronto,2023-04-20
+Business Analyst,Software,"Power BI, Excel, SQL",93666,Berlin,2023-02-16
+Business Analyst,HealthTech,"Excel, SQL, Stakeholder Management",148707,New York,2023-09-02
+ML Engineer,EdTech,"AWS, TensorFlow, Python",78575,Toronto,2023-02-27
+Data Scientist,E-Commerce,"Python, Pandas, NLP",156858,Bangalore,2022-09-18
+Business Analyst,AI,"Power BI, Excel, SQL",116069,New York,2022-11-04
+Data Analyst,AI,"Power BI, Python, Excel",99504,Bangalore,2023-12-31
+Data Scientist,FinTech,"Scikit-learn, Python, NLP",117203,Bangalore,2023-05-03
+ML Engineer,Software,"TensorFlow, AWS, PyTorch",86828,Remote,2022-10-02
+ML Engineer,HealthTech,"AWS, PyTorch, TensorFlow",135401,Toronto,2022-04-23
+Data Scientist,FinTech,"NLP, Python, Pandas",113301,San Francisco,2023-09-16
+Business Analyst,Software,"SQL, Excel, Power BI",104020,San Francisco,2022-11-29
+ML Engineer,HealthTech,"Python, AWS, PyTorch",107814,Berlin,2023-11-23
+Software Engineer,Software,"Node.js, JavaScript, PostgreSQL",90086,London,2023-02-26
+Software Engineer,E-Commerce,"PostgreSQL, JavaScript, Node.js",99087,San Francisco,2023-11-05
+ML Engineer,EdTech,"Python, AWS, PyTorch",129993,Toronto,2023-04-01
+Data Scientist,Software,"Scikit-learn, Pandas, NLP",70936,London,2022-07-01
+Software Engineer,HealthTech,"React, JavaScript, Node.js",144279,Bangalore,2023-12-26
+Business Analyst,EdTech,"Power BI, Stakeholder Management, SQL",123497,Bangalore,2023-08-27
+Software Engineer,Software,"React, PostgreSQL, Node.js",127793,New York,2023-09-13
+ML Engineer,AI,"AWS, TensorFlow, PyTorch",134735,Toronto,2022-07-01
+ML Engineer,E-Commerce,"PyTorch, TensorFlow, Python",65854,Remote,2024-02-07
+Data Analyst,AI,"Python, SQL, Excel",137838,Remote,2022-10-03
+Data Scientist,AI,"Pandas, NLP, Python",114132,London,2024-01-14
+Business Analyst,FinTech,"Power BI, Stakeholder Management, Excel",134593,San Francisco,2023-12-02
+Data Scientist,Software,"NLP, Scikit-learn, Python",107118,Remote,2024-02-09
+Data Scientist,E-Commerce,"Pandas, NLP, Scikit-learn",94503,Remote,2024-01-30
+Software Engineer,HealthTech,"PostgreSQL, JavaScript, React",84696,San Francisco,2024-05-13
+Data Scientist,EdTech,"NLP, Scikit-learn, Pandas",149287,London,2023-06-24
+Business Analyst,Software,"SQL, Stakeholder Management, Excel",113260,New York,2022-09-26
+Business Analyst,FinTech,"Excel, Stakeholder Management, Power BI",115890,Bangalore,2022-01-12
+ML Engineer,HealthTech,"TensorFlow, PyTorch, Python",104896,San Francisco,2023-09-09
+Data Analyst,Software,"Python, Power BI, Excel",83505,London,2022-02-04
+Business Analyst,Software,"SQL, Excel, Power BI",125997,New York,2022-01-01
+ML Engineer,E-Commerce,"Python, TensorFlow, PyTorch",94944,Berlin,2023-05-28
+Business Analyst,Software,"Stakeholder Management, Excel, SQL",119705,San Francisco,2023-06-12
+Software Engineer,E-Commerce,"Node.js, JavaScript, PostgreSQL",140567,Bangalore,2022-05-06
+ML Engineer,E-Commerce,"TensorFlow, AWS, PyTorch",95193,Berlin,2023-12-29
+ML Engineer,HealthTech,"Python, AWS, TensorFlow",65626,Berlin,2022-03-15
+Data Scientist,EdTech,"NLP, Scikit-learn, Python",73579,San Francisco,2022-11-18
+Business Analyst,EdTech,"SQL, Stakeholder Management, Excel",124210,Toronto,2022-04-14
+Business Analyst,FinTech,"Power BI, SQL, Excel",126010,Bangalore,2023-08-02
+Data Scientist,FinTech,"Pandas, NLP, Python",77104,San Francisco,2022-03-09
+DevOps Engineer,EdTech,"CI/CD, AWS, Docker",81674,Berlin,2023-10-15
+Data Scientist,HealthTech,"Python, Pandas, Scikit-learn",131934,San Francisco,2022-09-02
+DevOps Engineer,AI,"AWS, Docker, Kubernetes",108702,Remote,2022-09-11
+Software Engineer,AI,"React, PostgreSQL, JavaScript",142856,London,2023-05-03
+Data Analyst,AI,"SQL, Excel, Power BI",141739,San Francisco,2023-04-30
+Data Analyst,FinTech,"Python, Excel, Power BI",143805,Berlin,2024-04-30
+Data Scientist,FinTech,"NLP, Python, Scikit-learn",104522,Toronto,2024-03-15
+Data Analyst,FinTech,"Excel, Python, SQL",158221,San Francisco,2023-05-15
+Data Scientist,FinTech,"NLP, Pandas, Python",144502,New York,2022-04-11
+ML Engineer,E-Commerce,"AWS, TensorFlow, PyTorch",157122,Toronto,2023-06-05
+Data Scientist,FinTech,"Python, NLP, Scikit-learn",125550,London,2023-04-06
+Business Analyst,AI,"Excel, SQL, Stakeholder Management",81039,Bangalore,2023-01-21
+Software Engineer,Software,"React, Node.js, JavaScript",116861,Remote,2022-11-21
+Business Analyst,EdTech,"Stakeholder Management, SQL, Excel",63325,Toronto,2023-05-18
+Software Engineer,FinTech,"Node.js, React, JavaScript",134294,Bangalore,2024-02-23
+Data Scientist,AI,"Pandas, Python, NLP",89762,Bangalore,2023-03-24
+Data Scientist,E-Commerce,"Scikit-learn, NLP, Pandas",147652,Berlin,2022-06-21
+Software Engineer,EdTech,"Node.js, React, JavaScript",100271,Berlin,2023-10-12
+DevOps Engineer,E-Commerce,"CI/CD, AWS, Docker",101296,San Francisco,2024-04-25
+DevOps Engineer,AI,"Kubernetes, AWS, Docker",106094,Bangalore,2024-04-23
+Data Scientist,EdTech,"NLP, Pandas, Scikit-learn",138399,New York,2022-12-17
+Data Scientist,FinTech,"Python, Scikit-learn, Pandas",72463,Berlin,2023-10-09
+Data Scientist,Software,"Python, Pandas, NLP",85517,Toronto,2022-03-17
+Software Engineer,Software,"JavaScript, React, PostgreSQL",135293,London,2023-10-10
+Data Analyst,EdTech,"Python, Excel, Power BI",131899,New York,2022-10-30
+DevOps Engineer,FinTech,"Kubernetes, AWS, CI/CD",101077,New York,2022-09-19
+Data Scientist,HealthTech,"Pandas, Scikit-learn, NLP",134170,New York,2023-01-23
+Data Scientist,Software,"NLP, Pandas, Python",89495,London,2022-06-09
+ML Engineer,E-Commerce,"TensorFlow, AWS, PyTorch",112296,London,2022-01-25
+Data Scientist,Software,"Python, NLP, Scikit-learn",104278,Remote,2024-01-21
+Software Engineer,FinTech,"PostgreSQL, Node.js, JavaScript",158020,Berlin,2023-01-06
+Software Engineer,FinTech,"React, PostgreSQL, JavaScript",156313,Toronto,2023-12-16
+DevOps Engineer,E-Commerce,"Kubernetes, Docker, AWS",119993,New York,2022-02-05
+DevOps Engineer,E-Commerce,"CI/CD, AWS, Docker",130492,New York,2023-06-24
+Data Analyst,FinTech,"SQL, Python, Excel",134943,Remote,2023-02-28
+DevOps Engineer,E-Commerce,"CI/CD, AWS, Kubernetes",83846,London,2023-02-19
+DevOps Engineer,FinTech,"AWS, Docker, CI/CD",125564,London,2022-06-29
+Data Scientist,HealthTech,"Scikit-learn, NLP, Pandas",62388,San Francisco,2023-07-18
+Data Analyst,EdTech,"Power BI, Python, SQL",142592,Berlin,2022-10-08
+Data Analyst,Software,"Power BI, SQL, Python",145518,Toronto,2022-03-01
+Data Analyst,FinTech,"SQL, Python, Excel",114728,San Francisco,2022-10-11
+ML Engineer,FinTech,"Python, AWS, TensorFlow",82296,Toronto,2024-02-03
+DevOps Engineer,HealthTech,"Docker, AWS, Kubernetes",133727,San Francisco,2023-02-11
+Software Engineer,Software,"Node.js, React, PostgreSQL",87958,Toronto,2023-07-04
+DevOps Engineer,HealthTech,"CI/CD, Docker, Kubernetes",85050,Berlin,2024-03-03
+Business Analyst,FinTech,"SQL, Power BI, Stakeholder Management",75354,Remote,2022-04-25
+DevOps Engineer,Software,"Kubernetes, CI/CD, AWS",93512,Remote,2022-07-07
+DevOps Engineer,E-Commerce,"Kubernetes, AWS, Docker",64721,Berlin,2022-05-27
+Data Scientist,EdTech,"NLP, Scikit-learn, Python",121995,Toronto,2022-11-24
+ML Engineer,FinTech,"Python, TensorFlow, PyTorch",152367,Toronto,2024-04-12
+Business Analyst,Software,"Excel, Stakeholder Management, Power BI",105453,London,2024-04-02
+Business Analyst,EdTech,"SQL, Power BI, Excel",71008,San Francisco,2022-12-08
+Data Scientist,FinTech,"Python, Pandas, Scikit-learn",86787,San Francisco,2024-05-12
+Data Analyst,FinTech,"Python, Excel, SQL",144737,San Francisco,2022-12-21
+DevOps Engineer,E-Commerce,"Docker, Kubernetes, AWS",124319,Remote,2022-07-15
+Data Analyst,EdTech,"Excel, Python, Power BI",154760,Remote,2024-03-16
+Software Engineer,AI,"JavaScript, PostgreSQL, Node.js",111961,San Francisco,2022-11-26
+Data Analyst,EdTech,"Excel, SQL, Power BI",105712,Bangalore,2024-02-08
+Business Analyst,FinTech,"Stakeholder Management, Power BI, Excel",81588,San Francisco,2024-04-20
+Business Analyst,AI,"Power BI, Excel, SQL",149078,New York,2023-11-01
+Software Engineer,EdTech,"JavaScript, Node.js, React",104049,Bangalore,2023-05-31
+DevOps Engineer,E-Commerce,"Kubernetes, Docker, AWS",73833,Bangalore,2023-10-02
+DevOps Engineer,EdTech,"AWS, Docker, CI/CD",100865,New York,2023-02-15
+ML Engineer,EdTech,"AWS, TensorFlow, Python",96853,Bangalore,2024-03-05
+DevOps Engineer,EdTech,"Docker, CI/CD, Kubernetes",141233,San Francisco,2022-12-26
+DevOps Engineer,AI,"CI/CD, Docker, Kubernetes",123408,Berlin,2022-11-21
+ML Engineer,HealthTech,"TensorFlow, AWS, PyTorch",108485,Toronto,2022-08-15
+Software Engineer,E-Commerce,"React, Node.js, PostgreSQL",141465,London,2023-01-30
+DevOps Engineer,EdTech,"CI/CD, AWS, Kubernetes",137601,London,2023-02-20
+Data Analyst,HealthTech,"SQL, Python, Excel",128238,London,2023-02-20
+Data Analyst,EdTech,"Power BI, Python, SQL",79251,Berlin,2024-04-08
+Data Scientist,EdTech,"Python, Pandas, Scikit-learn",81484,New York,2022-05-14
+DevOps Engineer,HealthTech,"Kubernetes, Docker, CI/CD",138265,Remote,2022-03-06
+ML Engineer,EdTech,"AWS, Python, PyTorch",131058,Toronto,2022-11-22
+DevOps Engineer,FinTech,"Docker, Kubernetes, CI/CD",84179,London,2022-04-13
+Data Scientist,E-Commerce,"Scikit-learn, Pandas, NLP",127359,New York,2023-05-27
+Data Analyst,EdTech,"Python, Power BI, Excel",148009,London,2023-10-22
+Data Scientist,FinTech,"NLP, Pandas, Scikit-learn",100867,New York,2022-09-11
+ML Engineer,E-Commerce,"PyTorch, AWS, Python",103565,New York,2022-05-21
+Data Scientist,HealthTech,"Pandas, Python, NLP",110347,London,2023-05-30
+Data Scientist,AI,"NLP, Pandas, Python",158654,Bangalore,2023-02-23
+ML Engineer,HealthTech,"AWS, TensorFlow, PyTorch",104903,London,2023-07-17
+DevOps Engineer,E-Commerce,"Docker, Kubernetes, CI/CD",152425,San Francisco,2024-05-17
+ML Engineer,HealthTech,"PyTorch, AWS, TensorFlow",88915,Bangalore,2024-02-01
+Data Scientist,HealthTech,"Scikit-learn, Python, NLP",139150,Remote,2022-09-18
