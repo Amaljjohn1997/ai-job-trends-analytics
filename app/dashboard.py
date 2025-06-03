@@ -11,8 +11,8 @@ import matplotlib.pyplot as plt
 from collections import Counter
 
 # ── Load Data ──────────────────────────────
-layoffs = pd.read_csv("../data/layoffs.csv", parse_dates=["Date"])
-jobs = pd.read_csv("../data/job_postings.csv", parse_dates=["date"])
+layoffs = pd.read_csv("data/layoffs.csv", parse_dates=["Date"])
+jobs = pd.read_csv("data/job_postings.csv", parse_dates=["date"])
 
 # ── Preprocessing ──────────────────────────
 jobs["month"] = jobs["date"].dt.to_period("M").astype(str)
